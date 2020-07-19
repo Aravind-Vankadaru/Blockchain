@@ -1,0 +1,14 @@
+1) Blockchain is a way of storing data which allows creata, read only which     enables high security.In short blockchain is alinked list with cryptography  password and contains decentralised 
+
+2)No need of powerful third party trust like banks..
+
+3).verifiable
+  .unchangeable
+  .tamper-proof
+
+4) a block contains blocknumber,transaction records, previous block signature
+   mining key
+
+5)verifiability of blockchain:
+  since blockchain is decentaralised every person has access previous block signature. if a person manipulates data in a block his signature will change automatically by comparing his signature other community members we may verify 
+is the infomation manupilated or not
